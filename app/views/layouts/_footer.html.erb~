@@ -1,3 +1,15 @@
+<div id="page-wrap">
+  <h2> Test</h2>
+  <div id="sidebar">
+	<h1>test</h1>
+  </div>
+</div>
 
-<h1> footer </h1>
-<hr>
+<!-- <ul>
+<li><a  href="/"><span data-text="Home">Home</span></a></li>
+<li><a  href="#"><span data-text="Packages">Packages</span></a></li>
+<li><a  href="#"><span data-text="Schedule">Schedule</span></a></li>
+<li><a  href="#"><span data-text="Register">Register</span></a></li>
+<li><a  href="#"><span data-text="About Us">About Us</span></a></li>
+<li><a  href="#"><span data-text="Contact Us">Contact Us</span></a></li>
+</ul> -->

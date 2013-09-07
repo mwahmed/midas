@@ -78,7 +78,7 @@ transform: translateY(-100%);
 }
 </style>
 <div class ="logo">
-<h2> Midas Driving School </h2> 
+<h2 style="height:10px"> Midas Driving School </h2> 
 <p> MTO-Approved BDE Course Provider </p>
 </div>
 <div class="title">
